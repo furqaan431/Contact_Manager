@@ -1,4 +1,4 @@
-#Contact Management App
+#Contact Management App:
 A simple contact management application built with Python. This app allows users to store, view, search, update, delete, backup, and restore contacts. It also supports exporting and importing contacts to/from CSV files.
 
 Features
